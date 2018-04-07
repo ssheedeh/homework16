@@ -1,5 +1,7 @@
-/* General font and sizing */
 
+* {
+  box-sizing: border-box;
+}
 body {
   margin: 0;
   font-family: "Open Sans", Arial, Tahoma;
@@ -8,11 +10,6 @@ body {
   background-color: #ededed;
 }
 
-/* Change to border-box sizing */
-
-* {
-  box-sizing: border-box;
-}
 
 /* Container to hold all content */
 
